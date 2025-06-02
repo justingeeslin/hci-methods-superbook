@@ -16,6 +16,8 @@ sources:
 
 Wear compliance studies systematically evaluate how consistently users wear devices over extended periods, identifying factors that influence long-term adoption, abandonment, and re-adoption behaviors. These studies are crucial for understanding the real-world viability of wearable technologies.
 
+📚 **[View Specific Studies Using This Method](/hci-methods-superbook/studies/wear-compliance-studies/)** - Explore real research examples and findings
+
 ## Key Metrics
 
 ### Primary Compliance Measures

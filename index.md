@@ -27,6 +27,7 @@ Evaluation approaches tailored to specific domains, user groups, and interaction
 - **[Wearable-Specific Methods](/hci-methods-superbook/methods/wearable/)** - Focus on wearable device evaluation
 - **[Quantitative Methods](/hci-methods-superbook/methods/quantitative/)** - Data-driven evaluation approaches
 - **[Qualitative Methods](/hci-methods-superbook/methods/qualitative/)** - User-centered evaluation techniques
+- **[Research Studies](/hci-methods-superbook/studies/)** - Real examples of methods in practice
 - **[Bibliography](/hci-methods-superbook/bibliography/)** - Complete academic references and citations
 
 ## Featured Methods

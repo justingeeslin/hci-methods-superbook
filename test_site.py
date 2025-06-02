@@ -74,7 +74,7 @@ def test_methods_collection():
 
 def test_navigation_pages():
     """Test that main navigation pages exist."""
-    nav_pages = ['about.md', 'methods/index.md', 'bibliography.md']
+    nav_pages = ['about.md', 'methods/index.md', 'bibliography.md', 'studies/index.md']
     
     for page in nav_pages:
         page_path = Path(page)
@@ -139,6 +139,27 @@ def test_citations():
     
     print("✓ All method files have proper academic citations")
 
+def test_studies_structure():
+    """Test that studies directory structure is valid."""
+    studies_dir = Path("studies")
+    assert studies_dir.exists(), "Studies directory not found"
+    
+    # Check for index page
+    index_path = studies_dir / "index.md"
+    assert index_path.exists(), "Studies index page not found"
+    
+    # Check for at least one study collection
+    study_files = list(studies_dir.glob("*.md"))
+    assert len(study_files) >= 2, "Should have index and at least one study collection"
+    
+    # Verify all study files have front matter
+    for study_file in study_files:
+        with open(study_file, 'r') as f:
+            content = f.read()
+        assert content.startswith('---'), f"{study_file.name} missing front matter"
+    
+    print(f"✓ Studies directory structure is valid with {len(study_files)} files")
+
 def main():
     """Run all tests."""
     print("Testing HCI Methods Superbook site structure...")
@@ -154,6 +175,7 @@ def main():
         test_gemfile()
         test_content_quality()
         test_citations()
+        test_studies_structure()
         
         print("\n🎉 All tests passed! The site structure is valid.")
         return True
