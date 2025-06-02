@@ -1,0 +1,37 @@
+# Site settings
+title: HCI Methods Superbook
+description: A comprehensive collection and categorization of Human-Computer Interaction evaluation methods, with emphasis on wearable devices
+baseurl: "/hci-methods-superbook"
+url: "https://justingeeslin.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Collections
+collections:
+  methods:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation
+header_pages:
+  - index.md
+  - methods/index.md
+  - about.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
