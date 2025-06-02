@@ -16,6 +16,8 @@ sources:
 
 The think-aloud protocol is a usability evaluation method where users verbalize their thoughts, feelings, and actions while interacting with a system. This method provides direct insight into users' cognitive processes, decision-making strategies, and mental models during task performance.
 
+📚 **[View Specific Studies Using This Method]({{ site.baseurl }}/studies/think-aloud-protocol/)** - Explore real research examples and findings
+
 ## Types of Think-Aloud Protocols
 
 ### Concurrent Think-Aloud

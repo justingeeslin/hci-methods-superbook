@@ -10,7 +10,22 @@ This section catalogs specific research studies that have employed the evaluatio
 
 ## Available Study Collections
 
-### Wearable Device Research
+### Method-Specific Study Collections
+
+**[Ecological Momentary Assessment Studies](/hci-methods-superbook/studies/ecological-momentary-assessment/)**
+- Real-time data collection studies in natural environments
+- Stress detection, activity tracking, sleep monitoring, and mood assessment research
+- Features validation studies and real-world implementation examples
+
+**[Think-Aloud Protocol Studies](/hci-methods-superbook/studies/think-aloud-protocol/)**
+- Cognitive evaluation studies revealing user thought processes
+- Smartwatch interfaces, voice assistants, gesture-based systems, and accessibility research
+- Demonstrates various think-aloud methodological approaches
+
+**[Heuristic Evaluation Studies](/hci-methods-superbook/studies/heuristic-evaluation/)**
+- Expert inspection studies using adapted usability principles
+- Wearable-specific heuristics, multi-device ecosystems, and safety-critical systems
+- Includes specialized evaluation frameworks and domain adaptations
 
 **[Wear Compliance Studies](/hci-methods-superbook/studies/wear-compliance-studies/)**
 - Studies examining long-term adoption and usage patterns of wearable devices
@@ -83,10 +98,10 @@ We welcome contributions of additional studies that demonstrate the practical ap
 ## Future Directions
 
 ### Planned Additions
-- **Think-Aloud Protocol Studies** - Examples of cognitive evaluation research
-- **Heuristic Evaluation Studies** - Expert inspection method applications
-- **EMA Studies** - Ecological momentary assessment implementations
 - **Multi-Method Studies** - Research combining multiple evaluation approaches
+- **Physiological Signal Validation Studies** - Sensor accuracy and validation research
+- **Context-Aware System Studies** - Adaptive interface evaluation research
+- **Cross-Cultural HCI Studies** - International and cultural variation research
 
 ### Research Gaps
 - **Emerging technologies** - AR/VR, smart clothing, implantable devices

@@ -148,17 +148,31 @@ def test_studies_structure():
     index_path = studies_dir / "index.md"
     assert index_path.exists(), "Studies index page not found"
     
-    # Check for at least one study collection
-    study_files = list(studies_dir.glob("*.md"))
-    assert len(study_files) >= 2, "Should have index and at least one study collection"
+    # Check for specific study pages
+    expected_studies = [
+        'ecological-momentary-assessment.md',
+        'think-aloud-protocol.md', 
+        'heuristic-evaluation.md',
+        'wear-compliance-studies.md'
+    ]
     
-    # Verify all study files have front matter
-    for study_file in study_files:
+    for study in expected_studies:
+        study_path = studies_dir / study
+        assert study_path.exists(), f"Missing study page: {study}"
+    
+    # Verify all study files have front matter and required fields
+    all_study_files = list(studies_dir.glob("*.md"))
+    for study_file in all_study_files:
         with open(study_file, 'r') as f:
             content = f.read()
         assert content.startswith('---'), f"{study_file.name} missing front matter"
+        
+        # Check for required front matter fields (except index)
+        if study_file.name != 'index.md':
+            assert 'title:' in content[:300], f"{study_file.name} missing title in front matter"
+            assert 'permalink:' in content[:300], f"{study_file.name} missing permalink in front matter"
     
-    print(f"✓ Studies directory structure is valid with {len(study_files)} files")
+    print(f"✓ Studies directory structure is valid with {len(all_study_files)} files")
 
 def main():
     """Run all tests."""

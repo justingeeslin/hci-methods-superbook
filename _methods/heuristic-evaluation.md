@@ -16,6 +16,8 @@ sources:
 
 Heuristic evaluation is a usability inspection method where evaluators examine an interface and judge its compliance with recognized usability principles (heuristics). This expert-based evaluation method can identify usability problems quickly and cost-effectively, making it particularly valuable in iterative design processes.
 
+📚 **[View Specific Studies Using This Method]({{ site.baseurl }}/studies/heuristic-evaluation/)** - Explore real research examples and findings
+
 ## Core Principles
 
 ### Nielsen's 10 Usability Heuristics

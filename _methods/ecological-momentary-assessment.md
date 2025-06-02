@@ -16,6 +16,8 @@ sources:
 
 Ecological Momentary Assessment (EMA) is a research method that involves repeated sampling of subjects' current behaviors and experiences in real-time, in their natural environments. For wearable devices, EMA is particularly valuable as it captures authentic usage patterns and user experiences as they occur throughout daily life.
 
+📚 **[View Specific Studies Using This Method]({{ site.baseurl }}/studies/ecological-momentary-assessment/)** - Explore real research examples and findings
+
 ## Key Characteristics
 
 - **Real-time data collection** - Captures experiences as they happen
