@@ -108,9 +108,22 @@ This method description is based on research from:
 - Journal of Medical Internet Research (JMIR) studies on digital health
 
 ### Key References
-- Stone, A. A., & Shiffman, S. (1994). Ecological momentary assessment (EMA) in behavioral medicine
-- Intille, S. S. (2007). Technological innovations enabling automatic, context-sensitive ecological momentary assessment
-- Dunton, G. F. (2017). Ecological momentary assessment in physical activity research
+
+**Foundational Papers:**
+- Stone, A. A., & Shiffman, S. (1994). Ecological momentary assessment (EMA) in behavioral medicine. *Annals of Behavioral Medicine*, 16(3), 199-202.
+- Shiffman, S., Stone, A. A., & Hufford, M. R. (2008). Ecological momentary assessment. *Annual Review of Clinical Psychology*, 4, 1-32.
+
+**Technology and Implementation:**
+- Intille, S. S. (2007). Technological innovations enabling automatic, context-sensitive ecological momentary assessment. In *The Science of Real-Time Data Capture* (pp. 308-337). Oxford University Press.
+- Heron, K. E., & Smyth, J. M. (2010). Ecological momentary interventions: incorporating mobile technology into psychosocial and health behaviour treatments. *British Journal of Health Psychology*, 15(1), 1-39.
+
+**Wearable Device Applications:**
+- Dunton, G. F. (2017). Ecological momentary assessment in physical activity research. *Exercise and Sport Sciences Reviews*, 45(1), 48-54.
+- Liao, Y., Skelton, K., Dunton, G., & Bruening, M. (2016). A systematic review of methods and procedures used in ecological momentary assessments of diet and physical activity research in youth. *Journal of Medical Internet Research*, 18(6), e5781.
+
+**CHI and UbiComp Research:**
+- Consolvo, S., & Walker, M. (2003). Using the experience sampling method to evaluate ubicomp applications. *IEEE Pervasive Computing*, 2(2), 24-31.
+- Froehlich, J., Chen, M. Y., Consolvo, S., Harrison, B., & Landay, J. A. (2007). MyExperience: a system for in situ tracing and capturing of user feedback on mobile phones. *Proceedings of the 5th International Conference on Mobile Systems, Applications and Services* (pp. 57-70).
 
 ---
 

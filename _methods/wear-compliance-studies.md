@@ -182,9 +182,26 @@ This method description is based on research from:
 - Digital Health journals on wearable technology compliance
 
 ### Key References
-- Cadmus-Bertram, L. A., et al. (2015). Randomized trial of a Fitbit-based physical activity intervention
-- Clawson, J., et al. (2015). The care and feeding of wearables: factors affecting the level of maintenance
-- Lazar, A., et al. (2015). Why we use and abandon smart devices
+
+**Foundational Studies:**
+- Cadmus-Bertram, L. A., Marcus, B. H., Patterson, R. E., Parker, B. A., & Morey, B. L. (2015). Randomized trial of a Fitbit-based physical activity intervention for women. *American Journal of Preventive Medicine*, 49(3), 414-418.
+- Clawson, J., Pater, J. A., Miller, A. D., Mynatt, E. D., & Mamykina, L. (2015). No longer wearing: investigating the abandonment of personal health-tracking technologies on craigslist. *Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing* (pp. 647-658).
+
+**Privacy and Trust Research:**
+- Lazar, A., Koehler, C., Tanenbaum, J., & Nguyen, D. H. (2015). Why we use and abandon smart devices. *Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing* (pp. 635-646).
+- Epstein, D. A., Ping, A., Fogarty, J., & Munson, S. A. (2015). A lived informatics model of personal informatics. *Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing* (pp. 731-742).
+
+**Long-term Adoption Studies:**
+- Asimakopoulos, S., Asimakopoulos, G., & Spillers, F. (2017). Motivation and user engagement in fitness tracking: Heuristics for mobile healthcare wearables. *Informatics*, 4(1), 5.
+- Ledger, D., & Bailly, D. (2014). Inside wearables: How the science of human behavior change offers the secret to long-term engagement. *Endeavour Partners*, 200(93), 1.
+
+**CHI and UbiComp Research:**
+- Rooksby, J., Rost, M., Morrison, A., & Chalmers, M. C. (2014). Personal tracking as lived informatics. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 1163-1172).
+- Fritz, T., Huang, E. M., Murphy, G. C., & Zimmermann, T. (2014). Persuasive technology in the real world: a study of long-term use of activity sensing devices for fitness. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 487-496).
+
+**IEEE Research:**
+- Patel, M. S., Asch, D. A., & Volpp, K. G. (2015). Wearable devices as facilitators, not drivers, of health behavior change. *JAMA*, 313(5), 459-460.
+- Mercer, K., Giangregorio, L., Schneider, E., Chilana, P., Li, M., & Grindrod, K. (2016). Acceptance of commercially available wearable activity trackers among adults aged over 50 and with chronic illness: a mixed-methods evaluation. *JMIR mHealth and uHealth*, 4(1), e4225.
 
 ---
 

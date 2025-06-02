@@ -74,7 +74,7 @@ def test_methods_collection():
 
 def test_navigation_pages():
     """Test that main navigation pages exist."""
-    nav_pages = ['about.md', 'methods/index.md']
+    nav_pages = ['about.md', 'methods/index.md', 'bibliography.md']
     
     for page in nav_pages:
         page_path = Path(page)
@@ -119,6 +119,26 @@ def test_content_quality():
     
     print("✓ All method files reference appropriate academic sources")
 
+def test_citations():
+    """Test that methods have proper academic citations."""
+    methods_dir = Path("_methods")
+    
+    for method_file in methods_dir.glob("*.md"):
+        with open(method_file, 'r') as f:
+            content = f.read()
+        
+        # Should have a Key References section
+        assert "### Key References" in content, f"{method_file.name} missing Key References section"
+        
+        # Should have properly formatted citations (author, year, title)
+        has_proper_citations = any(pattern in content for pattern in [
+            "Proceedings of", "Journal of", "IEEE", "ACM", "CHI"
+        ])
+        
+        assert has_proper_citations, f"{method_file.name} should have properly formatted academic citations"
+    
+    print("✓ All method files have proper academic citations")
+
 def main():
     """Run all tests."""
     print("Testing HCI Methods Superbook site structure...")
@@ -133,6 +153,7 @@ def main():
         test_navigation_pages()
         test_gemfile()
         test_content_quality()
+        test_citations()
         
         print("\n🎉 All tests passed! The site structure is valid.")
         return True

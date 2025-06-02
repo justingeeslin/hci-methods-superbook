@@ -167,9 +167,32 @@ This method description is based on research from:
 - International standards for usability evaluation
 
 ### Key References
-- Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces
-- Nielsen, J. (1994). Enhancing the explanatory power of usability heuristics
-- Zhang, J., et al. (2003). A comparison of the closed card sorting and the open card sorting methods
+
+**Foundational Papers:**
+- Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 249-256).
+- Nielsen, J. (1994). Enhancing the explanatory power of usability heuristics. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 152-158).
+- Nielsen, J. (1994). Usability inspection methods. *Conference Companion on Human Factors in Computing Systems* (pp. 413-414).
+
+**Methodological Development:**
+- Cockton, G., & Woolrych, A. (2001). Understanding inspection methods: lessons from an assessment of heuristic evaluation. *People and Computers XV—Interaction without Frontiers* (pp. 171-191).
+- Jeffries, R., Miller, J. R., Wharton, C., & Uyeda, K. (1991). User interface evaluation in the real world: a comparison of four techniques. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 119-124).
+- Molich, R., & Nielsen, J. (1990). Improving a human-computer dialogue. *Communications of the ACM*, 33(3), 338-348.
+
+**Comparative Studies:**
+- Desurvire, H., Caplan, M., & Toth, J. A. (2004). Using heuristics to evaluate the playability of games. *CHI'04 Extended Abstracts on Human Factors in Computing Systems* (pp. 1509-1512).
+- Law, E. L. C., & Hvannberg, E. T. (2004). Analysis of strategies for improving and estimating the effectiveness of heuristic evaluation. *Proceedings of the Third Nordic Conference on Human-Computer Interaction* (pp. 241-250).
+
+**Domain-Specific Applications:**
+- Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Using usability heuristics to evaluate patient safety of medical devices. *Journal of Biomedical Informatics*, 36(1-2), 23-30.
+- Bertini, E., Catarci, T., Dix, A., Gabrielli, S., Kimani, S., & Santucci, G. (2009). Appropriating heuristic evaluation for mobile computing. *International Journal of Mobile Human Computer Interaction*, 1(1), 20-41.
+
+**Recent Developments:**
+- Quiñones, D., & Rusu, C. (2017). How to develop usability heuristics: A systematic literature review. *Computer Standards & Interfaces*, 53, 89-122.
+- Hermawati, S., & Lawson, G. (2016). Establishing usability heuristics for heuristics evaluation in a specific domain: Is there a consensus? *Applied Ergonomics*, 56, 34-51.
+
+**IEEE and ACM Research:**
+- Tan, W., Liu, D., & Bishu, R. (2009). Web evaluation: Heuristic evaluation vs. user testing. *International Journal of Industrial Ergonomics*, 39(4), 621-627.
+- Chattratichart, J., & Brodie, J. (2004). Applying user interface design principles to the design of an augmented reality system interface. *Proceedings of the 3rd IEEE/ACM International Symposium on Mixed and Augmented Reality* (pp. 218-226).
 
 ---
 

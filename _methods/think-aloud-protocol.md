@@ -171,9 +171,28 @@ This method description is based on research from:
 - International Journal of Human-Computer Studies
 
 ### Key References
-- Ericsson, K. A., & Simon, H. A. (1993). Protocol analysis: Verbal reports as data
-- Nielsen, J. (1993). Usability engineering
-- Lewis, C. (1982). Using the "thinking-aloud" method in cognitive interface design
+
+**Foundational Works:**
+- Ericsson, K. A., & Simon, H. A. (1993). *Protocol analysis: Verbal reports as data* (Rev. ed.). MIT Press.
+- Lewis, C. (1982). Using the "thinking-aloud" method in cognitive interface design. *IBM Research Report RC-9265*, IBM T.J. Watson Research Center.
+- Nielsen, J. (1993). *Usability engineering*. Academic Press.
+
+**Methodological Development:**
+- Boren, T., & Ramey, J. (2000). Thinking aloud: reconciling theory and practice. *IEEE Transactions on Professional Communication*, 43(3), 261-278.
+- Fonteyn, M. E., Kuipers, B., & Grobe, S. J. (1993). A description of think aloud method and protocol analysis. *Qualitative Health Research*, 3(4), 430-441.
+- Van Someren, M. W., Barnard, Y. F., & Sandberg, J. A. (1994). *The think aloud method: A practical approach to modelling cognitive processes*. Academic Press.
+
+**CHI and HCI Research:**
+- Krahmer, E., & Ummelen, N. (2004). Thinking about thinking aloud: A comparison of two verbal protocols for usability testing. *IEEE Transactions on Professional Communication*, 47(2), 105-117.
+- Olmsted-Hawala, E. L., Murphy, E. D., Hawala, S., & Ashenfelter, K. T. (2010). Think-aloud protocols: a comparison of three think-aloud protocols for use in testing data-dissemination web sites for usability. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 2381-2390).
+
+**Wearable and Mobile Applications:**
+- Kjeldskov, J., & Graham, C. (2003). A review of mobile HCI research methods. *Proceedings of the 5th International Conference on Human Computer Interaction with Mobile Devices and Services* (pp. 317-335).
+- Coursaris, C. K., & Kim, D. J. (2011). A meta-analytical review of empirical mobile usability studies. *Journal of Usability Studies*, 6(3), 117-171.
+
+**Recent Developments:**
+- McDonald, S., Edwards, H. M., & Zhao, T. (2012). Exploring think-alouds in usability testing: Current practices and new directions. *Proceedings of the 26th Annual BCS Interaction Specialist Group Conference on People and Computers* (pp. 183-188).
+- Alhadreti, O., & Mayhew, P. (2018). Rethinking thinking aloud: A comparison of three think-aloud protocols. *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems* (pp. 1-12).
 
 ---
 
